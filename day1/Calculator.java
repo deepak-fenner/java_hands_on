@@ -37,7 +37,7 @@ public class Calculator {
 				System.out.println("Invalid Operator try again.....");	
 			}
 			
-		}while(f);		
+		}while(exit);		
 
 	}
 
